@@ -1,7 +1,7 @@
 # cs32_project4
 Text based delivery service GPS.
 
-To use, use IDE to run main function.
+To run program, use IDE to run main function.
 
 To input desired delivery points, enter start longitude/latitude, then enter destinations on new line with format: longitude latitude:Item.
 
